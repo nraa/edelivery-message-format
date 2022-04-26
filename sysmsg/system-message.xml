@@ -1,0 +1,8 @@
+<system-message id="c326291b-19a9-41d2-94a8-a9f93690b9c2">
+  <type>Rejected</type> <!-- Recalled | Accepted | Rejected -->
+  <timestamp>2016-12-31T10:10:10Z</timestamp>
+  <message-id>7a52fbcb-b58e-42a9-806c-2cf29616f63c</message-id>
+  <sender>Yahya Yai Abdullah</sender>
+  <org>NRAA</org>
+  <comment>The original message was sent to wrong agency</comment>
+</system-message>
