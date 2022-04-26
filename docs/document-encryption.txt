@@ -1,0 +1,5 @@
+If the documents referred  to in the toc.xml is encrypted (externally using encryption tool):
+1. the extension must be .enc to indicate that it is encrypted
+2. after encryption, the x509 certificate must be pre-fixed to the beginning of the encrypted document. 
+3. A 4-byte integer is prefixed to the beginning of that to indicate the size of the x509 certificate.
+
